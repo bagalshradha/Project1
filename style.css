@@ -1,0 +1,237 @@
+
+.h1{
+    font-size: 75px;
+    font-family: sans-serif;
+    line-height: 100px;
+    font-weight: 600;   
+    
+}
+.text1{
+    font-size:30px;
+    
+}
+.text1 p{
+    font-size:25px;
+    
+}
+
+.h2 h1{
+    font-size: 58px;
+    font-family: sans-serif;
+    line-height: 100px;
+    font-weight:600; 
+    margin-left:150px;
+    margin-right:150px;
+}
+.title4 h2{
+    font-family:sans-serif;
+    font-size:64px;
+    font-weight: 600;
+}
+.title5{
+    font-size: 59px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;
+}
+.p2{
+    font-size: 21px;
+}
+.title6{
+    font-size: 59px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;
+}
+.h11{
+    font-size: 62px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;   
+}
+.p3{
+    font-size: 22px;
+}
+.h22{
+    font-size: 62px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;   
+}
+.p4{
+    font-size: 21px;
+}
+.h33{
+    font-size: 78px;
+    font-family: sans-serif;
+    line-height: 70px;
+    font-weight: 600;   
+}
+.h44{
+    font-size: 40px;
+    font-family: sans-serif;
+    line-height: 40px;
+    font-weight: 600;   
+}
+.h55{
+    font-size: 50px;
+    font-family: sans-serif;
+    line-height: 40px;
+    font-weight: 300;   
+}
+.data1{
+    display: flex;
+    flex-wrap: wrap;
+}
+.point1{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+.head1{
+    font-size: 58px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;   
+    margin-top:250px;
+}
+.title3 p{
+    font-size:16px;
+    font-weight: 400;
+    line-height: 25px;
+    font-family: sans-serif;    
+}
+
+.heading1{
+    font-size:70px;
+    font-weight: 500;
+    line-height: 20px;
+}
+.title3{
+    margin-top: 250px;
+}
+.mybg{
+    background-color: rgb(232, 232, 232);
+}
+
+.para1{
+    font-size:16px;  
+    font-family: sans-serif;
+
+}
+.p1{
+    font-size: 20px;
+    font-family: sans-serif;
+
+}
+
+
+
+.p11{
+font-size: 15px;
+}
+
+.box11{
+    font-size:15px;
+    color:purple;
+    font-weight:500px;
+}
+.h01{
+    font-size: 58px;
+    font-family: sans-serif;
+    line-height: 60px;
+    font-weight: 600;   
+    margin-top:250px;
+}
+.box01{
+    font-size: 11px;
+}
+
+
+/************************** Media quary****************************/
+@media(max-width:600px){
+   
+    .h1{
+        font-size: 40px;
+        line-height: 60px;
+        font-weight: 600;   
+        margin-top:250px;
+    }
+    .text1 p{
+        font-size:16px;
+        margin-left: 0px;
+        margin-right: 0px;
+        
+    }
+    .h2 h1{
+        font-size: 35px;
+        font-family: sans-serif;
+        line-height: 50px;
+        font-weight:600; 
+        margin-left:0px;
+        margin-right:0px;
+    }
+    .title4 h2{
+        font-family:sans-serif;
+        font-size:40px;
+        font-weight: 600;
+    }
+    .title5{
+        font-size: 40px;
+        font-family: sans-serif;
+        line-height: 40px;
+        font-weight: 600;
+    }
+    .p2{
+        font-size: 18px;
+    }
+    .title6{
+        font-size: 36px;
+        font-family: sans-serif;
+        line-height: 40px;
+        font-weight: 600;
+    }
+    .h11{
+        font-size: 36px;
+        font-family: sans-serif;
+        line-height: 40px;
+        font-weight: 600;   
+    }
+    .p3{
+        font-size: 18px;
+    }
+    .h22{
+        font-size: 45px;
+        font-family: sans-serif;
+        line-height: 50px;
+        font-weight: 600;   
+    }
+    .p4{
+        font-size: 18px;
+    }
+    .h33{
+        font-size: 40px;
+        font-family: sans-serif;
+        line-height: 40px;
+        font-weight: 600;   
+    }
+    .h44{
+        font-size: 30px;
+        font-family: sans-serif;
+        line-height: 40px;
+        font-weight: 600;   
+    }
+    .point1{
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: column;
+    }
+
+
+}

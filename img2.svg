@@ -1,0 +1,25 @@
+<svg width="78" height="48" viewBox="0 0 78 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_1784_1494)">
+<rect x="33" y="11" width="21" height="14" rx="2" fill="#D7D7D7"/>
+<rect x="33.5" y="11.5" width="20" height="13" rx="1.5" stroke="black" stroke-opacity="0.16"/>
+<rect x="9" y="11" width="21" height="14" rx="2" fill="#D7D7D7"/>
+<rect x="9.5" y="11.5" width="20" height="13" rx="1.5" stroke="black" stroke-opacity="0.16"/>
+<rect x="9" y="7" width="12" height="2" rx="1" fill="white"/>
+<rect x="9.5" y="7.5" width="11" height="1" rx="0.5" stroke="black" stroke-opacity="0.32"/>
+<rect x="57" y="11" width="21" height="14" rx="2" fill="#D7D7D7"/>
+<rect x="57.5" y="11.5" width="20" height="13" rx="1.5" stroke="black" stroke-opacity="0.16"/>
+<rect x="9" y="27" width="21" height="13" rx="2" fill="#D7D7D7"/>
+<rect x="9.5" y="27.5" width="20" height="12" rx="1.5" stroke="black" stroke-opacity="0.16"/>
+<rect x="57" y="7" width="12" height="2" rx="1" fill="white"/>
+<rect x="57.5" y="7.5" width="11" height="1" rx="0.5" stroke="black" stroke-opacity="0.32"/>
+<rect x="33" y="7" width="12" height="2" rx="1" fill="white"/>
+<rect x="33.5" y="7.5" width="11" height="1" rx="0.5" stroke="black" stroke-opacity="0.32"/>
+<rect x="57" y="27" width="21" height="13" rx="2" fill="#D7D7D7"/>
+<rect x="57.5" y="27.5" width="20" height="12" rx="1.5" stroke="black" stroke-opacity="0.16"/>
+</g>
+<defs>
+<clipPath id="clip0_1784_1494">
+<rect width="70" height="40" fill="white" transform="translate(4 4)"/>
+</clipPath>
+</defs>
+</svg>
